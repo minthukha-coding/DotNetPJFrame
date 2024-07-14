@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35103.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetPJFrame.Api", "DotNetPJFrame.Api\DotNetPJFrame.Api.csproj", "{F3F6F8A6-8785-4933-884C-ECA11F973B6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetPJFrame.App", "DotNetPJFrame.App\DotNetPJFrame.App.csproj", "{14D87C21-AD12-4C57-A5F8-DE151D4C152B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{B66DDE42-273B-4188-AB96-D9208D58CD49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{A58FF630-0686-4396-A912-0D1509168725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F6F8A6-8785-4933-884C-ECA11F973B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F6F8A6-8785-4933-884C-ECA11F973B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F6F8A6-8785-4933-884C-ECA11F973B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F6F8A6-8785-4933-884C-ECA11F973B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14D87C21-AD12-4C57-A5F8-DE151D4C152B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D87C21-AD12-4C57-A5F8-DE151D4C152B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D87C21-AD12-4C57-A5F8-DE151D4C152B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D87C21-AD12-4C57-A5F8-DE151D4C152B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B3EFA0B-9329-420C-8FF9-FE0ABA07DCBF}
+	EndGlobalSection
+EndGlobal
