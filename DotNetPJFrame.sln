@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{B66DDE
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{A58FF630-0686-4396-A912-0D1509168725}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetPJFrame.Modules", "DotNetPJFrame.Modules\DotNetPJFrame.Modules.csproj", "{6BA565EF-2E62-4001-B345-777501E05DDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,9 +27,16 @@ Global
 		{14D87C21-AD12-4C57-A5F8-DE151D4C152B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14D87C21-AD12-4C57-A5F8-DE151D4C152B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14D87C21-AD12-4C57-A5F8-DE151D4C152B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA565EF-2E62-4001-B345-777501E05DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA565EF-2E62-4001-B345-777501E05DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA565EF-2E62-4001-B345-777501E05DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA565EF-2E62-4001-B345-777501E05DDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6BA565EF-2E62-4001-B345-777501E05DDD} = {A58FF630-0686-4396-A912-0D1509168725}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8B3EFA0B-9329-420C-8FF9-FE0ABA07DCBF}
