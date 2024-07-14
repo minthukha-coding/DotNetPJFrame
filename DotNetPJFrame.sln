@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{A58F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetPJFrame.Modules", "DotNetPJFrame.Modules\DotNetPJFrame.Modules.csproj", "{6BA565EF-2E62-4001-B345-777501E05DDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetPJFrame.Models", "DotNetPJFrame.Models\DotNetPJFrame.Models.csproj", "{6F428DB6-E600-48D6-9D03-01D689CBE646}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,12 +33,17 @@ Global
 		{6BA565EF-2E62-4001-B345-777501E05DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BA565EF-2E62-4001-B345-777501E05DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BA565EF-2E62-4001-B345-777501E05DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F428DB6-E600-48D6-9D03-01D689CBE646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F428DB6-E600-48D6-9D03-01D689CBE646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F428DB6-E600-48D6-9D03-01D689CBE646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F428DB6-E600-48D6-9D03-01D689CBE646}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6BA565EF-2E62-4001-B345-777501E05DDD} = {A58FF630-0686-4396-A912-0D1509168725}
+		{6F428DB6-E600-48D6-9D03-01D689CBE646} = {B66DDE42-273B-4188-AB96-D9208D58CD49}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8B3EFA0B-9329-420C-8FF9-FE0ABA07DCBF}
