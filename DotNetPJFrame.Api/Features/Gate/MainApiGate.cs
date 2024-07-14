@@ -1,6 +1,7 @@
-﻿namespace DotNetPJFrame.Api.Features.Gate
+﻿namespace DotNetPJFrame.Api.Features.Gate;
+
+public class MainApiGate
 {
-    public class MainApiGate
-    {
-    }
+    private ILogger<MainApiGate> logger;
+
 }
